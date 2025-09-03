@@ -1,0 +1,20 @@
+{
+  "origins": {
+    "hong_kong": "Hong Kong"
+  },
+  "destination": {
+    "tokyo": "Narita"
+  },
+  "dates": {
+    "departure": "15 Sept 2025",
+    "return": "18 Sept 2025"
+  },
+  "passengers": {
+    "adult": 1,
+    "infant": 1
+  },
+  "expected_messages": {
+    "return_date_error": "Please select a return date",
+    "infant_limit_error": "Only 1 infant can be booked for every 1 adult online."
+  }
+}
